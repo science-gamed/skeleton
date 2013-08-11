@@ -1,0 +1,8 @@
+{
+  "name": "skeleton",
+  "description": "test repo",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-sass": "~0.4.1"
+  }
+}
